@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\bin\Debug\Finalizing.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\bin\Debug\Finalizing.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\bin\Debug\Finalizing.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\obj\Debug\Finalizing.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\obj\Debug\Finalizing.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\obj\Debug\Finalizing.pdb

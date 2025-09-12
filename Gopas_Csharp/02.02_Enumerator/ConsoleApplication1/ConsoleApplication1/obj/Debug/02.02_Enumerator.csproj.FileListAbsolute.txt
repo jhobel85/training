@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\02.02_Enumerator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\02.02_Enumerator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\02.02_Enumerator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\02.02_Enumerator\ConsoleApplication1\ConsoleApplication1\obj\Debug\02.02_Enumerator.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\02.02_Enumerator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\02.02_Enumerator\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\bin\Debug\FileStream.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\bin\Debug\FileStream.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\bin\Debug\FileStream.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\obj\Debug\FileStream.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\obj\Debug\FileStream.pdb

@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\03_OptionalParameters\bin\Debug\03_OptionalParameters.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\03_OptionalParameters\bin\Debug\03_OptionalParameters.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\03_OptionalParameters\bin\Debug\03_OptionalParameters.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\03_OptionalParameters\obj\Debug\03_OptionalParameters.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\03_OptionalParameters\obj\Debug\03_OptionalParameters.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\03_OptionalParameters\obj\Debug\03_OptionalParameters.pdb

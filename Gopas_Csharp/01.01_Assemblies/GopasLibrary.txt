@@ -1,0 +1,9 @@
+namespace GopasLibrary
+{
+public class HelperClass
+{
+public static string SayHello(){
+	return "Hello from GopasLibrary 2";
+}
+}
+}

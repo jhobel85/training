@@ -1,0 +1,4 @@
+Copyright (C) Gopas. All rights reserved.
+This is the place for a Help...
+
+FFF

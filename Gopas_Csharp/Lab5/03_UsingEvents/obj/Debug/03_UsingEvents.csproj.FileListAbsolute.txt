@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\03_UsingEvents\bin\Debug\03_UsingEvents.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\03_UsingEvents\bin\Debug\03_UsingEvents.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\03_UsingEvents\bin\Debug\03_UsingEvents.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\03_UsingEvents\obj\Debug\03_UsingEvents.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\03_UsingEvents\obj\Debug\03_UsingEvents.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\03_UsingEvents\obj\Debug\03_UsingEvents.pdb

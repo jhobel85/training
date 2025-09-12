@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\02_AnonymousMethods\bin\Debug\02_AnonymousMethods.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\02_AnonymousMethods\bin\Debug\02_AnonymousMethods.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\02_AnonymousMethods\bin\Debug\02_AnonymousMethods.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\02_AnonymousMethods\obj\Debug\02_AnonymousMethods.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\02_AnonymousMethods\obj\Debug\02_AnonymousMethods.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\02_AnonymousMethods\obj\Debug\02_AnonymousMethods.pdb

@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\DelegateCallBack\bin\Debug\DelegateCallBack.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\DelegateCallBack\bin\Debug\DelegateCallBack.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\DelegateCallBack\bin\Debug\DelegateCallBack.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\DelegateCallBack\obj\Debug\DelegateCallBack.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\DelegateCallBack\obj\Debug\DelegateCallBack.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\DelegateCallBack\obj\Debug\DelegateCallBack.pdb

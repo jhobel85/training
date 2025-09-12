@@ -1,0 +1,16 @@
+namespace AssemblyDemo
+{
+public class Program
+{
+	public static void Main(string[] args)
+	{
+		AssemblyDemo.Worker w = new AssemblyDemo.Worker();
+		w.DoIt();
+		
+		if (args[0] == "/?")
+		{
+			System.Console.WriteLine(Worker.GetHelpString());
+		}
+	}
+}
+}

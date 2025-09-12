@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\VirtualMethods\Colletions\Collections\bin\Debug\Collections.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\VirtualMethods\Colletions\Collections\bin\Debug\Collections.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\VirtualMethods\Colletions\Collections\bin\Debug\Collections.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\VirtualMethods\Colletions\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\VirtualMethods\Colletions\Collections\obj\Debug\Collections.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\VirtualMethods\Colletions\Collections\obj\Debug\Collections.pdb

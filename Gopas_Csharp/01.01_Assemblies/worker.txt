@@ -1,0 +1,26 @@
+using GopasLibrary;
+using System.IO;
+using System.Reflection;
+
+namespace AssemblyDemo
+{
+public class Worker
+{
+public void DoIt()
+{
+	System.Console.WriteLine(HelperClass.SayHello() + " updated");
+}
+
+public static string GetHelpString(){
+	var assembly = Assembly.GetExecutingAssembly();
+	var ressourceName = "Help.txt";
+	using (Stream stream = assembly.GetManifestResourceStream(ressourceName))
+	using (StreamReader reader = new StreamReader(stream))
+	{
+		string result = reader.ReadToEnd();
+		return result;
+	}
+	
+}
+}
+} 

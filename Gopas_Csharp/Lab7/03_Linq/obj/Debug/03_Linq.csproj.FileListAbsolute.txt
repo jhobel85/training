@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\03_Linq\bin\Debug\03_Linq.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\03_Linq\bin\Debug\03_Linq.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\03_Linq\bin\Debug\03_Linq.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\03_Linq\obj\Debug\03_Linq.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\03_Linq\obj\Debug\03_Linq.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab7\03_Linq\obj\Debug\03_Linq.pdb

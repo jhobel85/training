@@ -1,0 +1,5 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\bin\Debug\01_PreprocessorDirectives.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\bin\Debug\01_PreprocessorDirectives.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\bin\Debug\01_PreprocessorDirectives.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\obj\Debug\01_PreprocessorDirectives.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\obj\Debug\01_PreprocessorDirectives.pdb

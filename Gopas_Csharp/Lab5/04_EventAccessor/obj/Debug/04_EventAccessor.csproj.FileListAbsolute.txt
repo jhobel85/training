@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\04_EventAccessor\bin\Debug\04_EventAccessor.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\04_EventAccessor\bin\Debug\04_EventAccessor.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\04_EventAccessor\bin\Debug\04_EventAccessor.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\04_EventAccessor\obj\Debug\04_EventAccessor.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\04_EventAccessor\obj\Debug\04_EventAccessor.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\04_EventAccessor\obj\Debug\04_EventAccessor.pdb

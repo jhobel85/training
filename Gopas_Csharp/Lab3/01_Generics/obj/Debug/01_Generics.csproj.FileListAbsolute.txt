@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\01_Generics\bin\Debug\01_Generics.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\01_Generics\bin\Debug\01_Generics.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\01_Generics\bin\Debug\01_Generics.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\01_Generics\obj\Debug\01_Generics.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\01_Generics\obj\Debug\01_Generics.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\01_Generics\obj\Debug\01_Generics.pdb

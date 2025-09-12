@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\bin\Release\01_PreprocessorDirectives.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\bin\Release\01_PreprocessorDirectives.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\bin\Release\01_PreprocessorDirectives.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\obj\Release\01_PreprocessorDirectives.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\obj\Release\01_PreprocessorDirectives.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\01_PreprocessorDirectives\obj\Release\01_PreprocessorDirectives.pdb

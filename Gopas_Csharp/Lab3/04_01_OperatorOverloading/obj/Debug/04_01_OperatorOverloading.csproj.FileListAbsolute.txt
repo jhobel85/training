@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\04_01_OperatorOverloading\bin\Debug\04_01_OperatorOverloading.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\04_01_OperatorOverloading\bin\Debug\04_01_OperatorOverloading.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\04_01_OperatorOverloading\bin\Debug\04_01_OperatorOverloading.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\04_01_OperatorOverloading\obj\Debug\04_01_OperatorOverloading.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\04_01_OperatorOverloading\obj\Debug\04_01_OperatorOverloading.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\04_01_OperatorOverloading\obj\Debug\04_01_OperatorOverloading.pdb

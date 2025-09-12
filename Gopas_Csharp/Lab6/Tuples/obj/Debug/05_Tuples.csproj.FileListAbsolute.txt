@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\Tuples\bin\Debug\Tuples.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\Tuples\bin\Debug\Tuples.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\Tuples\bin\Debug\Tuples.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\Tuples\obj\Debug\05_Tuples.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\Tuples\obj\Debug\Tuples.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\Tuples\obj\Debug\Tuples.pdb

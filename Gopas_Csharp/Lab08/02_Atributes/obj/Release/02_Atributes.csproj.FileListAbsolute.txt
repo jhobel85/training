@@ -1,0 +1,5 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\02_Atributes\bin\Release\02_Atributes.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\02_Atributes\bin\Release\02_Atributes.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\02_Atributes\bin\Release\02_Atributes.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\02_Atributes\obj\Release\02_Atributes.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab08\02_Atributes\obj\Release\02_Atributes.pdb

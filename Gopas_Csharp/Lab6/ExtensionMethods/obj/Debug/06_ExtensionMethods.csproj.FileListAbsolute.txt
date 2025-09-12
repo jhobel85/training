@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\ExtensionMethods\obj\Debug\06_ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab6\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\bin\Debug\netcoreapp3.1\Gopsas_Day3.exe
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\bin\Debug\netcoreapp3.1\Gopsas_Day3.deps.json
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\bin\Debug\netcoreapp3.1\Gopsas_Day3.runtimeconfig.json
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\bin\Debug\netcoreapp3.1\Gopsas_Day3.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\bin\Debug\netcoreapp3.1\Gopsas_Day3.dll
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\bin\Debug\netcoreapp3.1\Gopsas_Day3.pdb
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.AssemblyInfo.cs
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.dll
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.pdb
+C:\Users\Student\source\repos\Gopsas_Day3\Gopsas_Day3\obj\Debug\netcoreapp3.1\Gopsas_Day3.genruntimeconfig.cache

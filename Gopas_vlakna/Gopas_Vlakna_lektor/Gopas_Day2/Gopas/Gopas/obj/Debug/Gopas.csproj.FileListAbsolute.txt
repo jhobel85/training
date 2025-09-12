@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Gopas\Gopas\bin\Debug\Gopas.exe.config
+C:\Users\Student\source\repos\Gopas\Gopas\bin\Debug\Gopas.exe
+C:\Users\Student\source\repos\Gopas\Gopas\bin\Debug\Gopas.pdb
+C:\Users\Student\source\repos\Gopas\Gopas\obj\Debug\Gopas.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Gopas\Gopas\obj\Debug\Gopas.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Gopas\Gopas\obj\Debug\Gopas.exe
+C:\Users\Student\source\repos\Gopas\Gopas\obj\Debug\Gopas.pdb

@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\BinarySerialization\bin\Release\BinarySerialization.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\BinarySerialization\bin\Release\BinarySerialization.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\BinarySerialization\bin\Release\BinarySerialization.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\BinarySerialization\obj\Release\BinarySerialization.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\BinarySerialization\obj\Release\BinarySerialization.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\BinarySerialization\obj\Release\BinarySerialization.pdb

@@ -1,0 +1,5 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\bin\Release\Finalizing.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\bin\Release\Finalizing.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\bin\Release\Finalizing.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\obj\Release\Finalizing.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\Finalizing\obj\Release\Finalizing.pdb

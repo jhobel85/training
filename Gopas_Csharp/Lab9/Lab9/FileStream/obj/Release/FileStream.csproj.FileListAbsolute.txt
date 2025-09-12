@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\bin\Release\FileStream.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\bin\Release\FileStream.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\bin\Release\FileStream.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\obj\Release\FileStream.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\obj\Release\FileStream.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab9\Lab9\FileStream\obj\Release\FileStream.pdb

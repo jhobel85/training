@@ -1,0 +1,16 @@
+#include <iostream>
+
+class HelloWorld {
+public:
+    void sayHello() const {
+        std::cout << "Hello, World 1!" << std::endl;
+    }
+};
+
+//Consumer is main
+
+int main1() {
+    HelloWorld hw;
+    hw.sayHello();
+    return 0;
+}

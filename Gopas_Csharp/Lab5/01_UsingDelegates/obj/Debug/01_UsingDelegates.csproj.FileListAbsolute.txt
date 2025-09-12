@@ -1,0 +1,6 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\01_UsingDelegates\bin\Debug\01_UsingDelegates.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\01_UsingDelegates\bin\Debug\01_UsingDelegates.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\01_UsingDelegates\bin\Debug\01_UsingDelegates.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\01_UsingDelegates\obj\Debug\01_UsingDelegates.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\01_UsingDelegates\obj\Debug\01_UsingDelegates.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab5\01_UsingDelegates\obj\Debug\01_UsingDelegates.pdb

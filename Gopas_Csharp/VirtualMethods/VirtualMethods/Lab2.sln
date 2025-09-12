@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{B03A26B3-A73B-4929-9D0B-B4E113F4CE85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Properties", "..\Person\ConsoleApplication1\Properties.csproj", "{2E553AD0-7E11-489E-9EAD-BE06182CF311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "..\Colletions\Collections\Collections.csproj", "{F76001AF-D097-4DEC-82BE-DB8947108FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03A26B3-A73B-4929-9D0B-B4E113F4CE85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03A26B3-A73B-4929-9D0B-B4E113F4CE85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03A26B3-A73B-4929-9D0B-B4E113F4CE85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03A26B3-A73B-4929-9D0B-B4E113F4CE85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E553AD0-7E11-489E-9EAD-BE06182CF311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E553AD0-7E11-489E-9EAD-BE06182CF311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E553AD0-7E11-489E-9EAD-BE06182CF311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E553AD0-7E11-489E-9EAD-BE06182CF311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76001AF-D097-4DEC-82BE-DB8947108FB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76001AF-D097-4DEC-82BE-DB8947108FB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76001AF-D097-4DEC-82BE-DB8947108FB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76001AF-D097-4DEC-82BE-DB8947108FB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

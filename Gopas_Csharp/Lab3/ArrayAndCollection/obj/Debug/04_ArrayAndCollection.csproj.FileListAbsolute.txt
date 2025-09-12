@@ -1,0 +1,8 @@
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\bin\Debug\ArrayAndCollection.exe.config
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\bin\Debug\ArrayAndCollection.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\bin\Debug\ArrayAndCollection.pdb
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\obj\Debug\04_ArrayAndCollection.csprojResolveAssemblyReference.cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\obj\Debug\ArrayAndCollection.Properties.Resources.resources
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\obj\Debug\04_ArrayAndCollection.csproj.GenerateResource.Cache
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\obj\Debug\ArrayAndCollection.exe
+C:\UserData\z003xjtr\siemens\Trainings\GopasCS\Lab3\ArrayAndCollection\obj\Debug\ArrayAndCollection.pdb
