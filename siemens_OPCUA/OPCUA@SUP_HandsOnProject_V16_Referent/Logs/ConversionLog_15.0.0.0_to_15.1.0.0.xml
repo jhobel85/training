@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="OPCUA@SUP_20180802_1610_V15.1" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:09 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:12 PM" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:12 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:12 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:14 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair missing bidirectional links" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:14 PM" Debug="false">
+    <Text>No error is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:32 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting conversion of UMAC data." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:32 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of UMAC data is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:32 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Starting conversion of user and roles configuration data." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:32 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="User with the required engineering right &quot;Manage users and roles&quot; has logged in." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:32 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of user and roles configuration is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:33 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of SiVArc data finished" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:48 PM" Debug="false">
+    <Text>Not invalidating fingerprints for protected object: RDLT_LDT_SFC[SFC153]</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:48 PM" Debug="false">
+    <Text>Not invalidating fingerprints for protected object: TIME_TCK_SFC[SFC64]</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:48 PM" Debug="false">
+    <Text>Not invalidating fingerprints for protected object: Chars_TO_Strg_SFC[SFC222]</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:48 PM" Debug="false">
+    <Text>Not invalidating fingerprints for protected object: RD_SINFO_SFC[SFC6]</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:10:49 PM" Debug="false">
+    <Text>Not invalidating fingerprints for protected object: R_TRIG[FB1001]</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:57 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information is being converted." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:59 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information was created successfully." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/22/2019 2:10:59 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of the cross-reference information is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'HW.Connections' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'HW.PC.APP.OPC.MDD_PC-Opc-App_14.0.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'HW.PC.CP.IE.RTM.PCI.MDD_PC-Cp-Ie-General-8.2.0_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'HW.PC.RACK.MDD_PC-Rack_1.0_15.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'HW.PC.StationManager.MDD_PC-Station-Manager_1.1_14.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'HW.PC.DEVICE.MDD_PC-Device_1.0_15.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.S7PSW.V15.0.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Comfort:15.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Professional:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Advanced:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Comfort:14.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/22/2019 2:11:00 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Basic:14.00.00.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="5/22/2019 2:11:00 PM">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Project 'C:\Users\Siemens\Desktop\01_Grundlagen\OPCUA@SUP_20180802_1610\System\PEData.plf' was successfully upgraded and saved as project 'C:\Users\Siemens\Desktop\01_Grundlagen\OPCUA@SUP_20180802_1610_V15.1\System\PEData.plf'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>

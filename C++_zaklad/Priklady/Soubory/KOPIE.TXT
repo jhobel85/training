@@ -1,0 +1,79 @@
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <assert.h>
+#include <malloc.h>
+#include <stdio.h>
+
+long velikost(const char* nazev)
+{
+	long velikost = EOF;
+	FILE* f = fopen(nazev, "rb");
+	if (f != NULL)
+	{
+		if (0 == fseek(f, 0L, SEEK_END))
+		{
+			velikost = ftell(f);
+		}
+		fclose(f);
+	}
+	return velikost;
+}
+
+size_t kopirujSoubor(const char* kopie, const char* original)
+{
+	const int n = 64 * 1024;
+	size_t pocetZapsanychBajtu = 0;
+	void* buf = NULL;
+	FILE* src = NULL;
+	FILE* dst = NULL;
+
+	buf = malloc(n);
+	if (buf == NULL)
+	{
+		goto konec;
+	}
+	src = fopen(original, "rb");
+	if (src == NULL)
+	{
+		goto konec;
+	}
+	dst = fopen(kopie, "wb");
+	if (dst == NULL)
+	{
+		goto konec;
+	}
+
+	assert(buf != NULL && src != NULL && dst != NULL);
+	size_t precteno;
+
+	while (0 != (precteno = fread(buf, 1, n, src)))
+	{
+		pocetZapsanychBajtu += fwrite(buf, 1, precteno, dst);
+	}
+
+konec:
+	if (dst != NULL)
+	{
+		fclose(dst);
+		dst = NULL;
+	}
+	if (src != NULL)
+	{
+		fclose(src);
+		src = NULL;
+	}
+	if (buf != NULL)
+	{
+		free(buf);
+		buf = NULL;
+	}
+	return pocetZapsanychBajtu;
+}
+
+int main()
+{
+	printf("Soubory:\n");
+	printf("velikost      = %ld byte\n", velikost(__FILE__));
+	printf("kopirujSoubor = %zd byte\n", kopirujSoubor("KOPIE.TXT", __FILE__));
+	return 0;
+}
